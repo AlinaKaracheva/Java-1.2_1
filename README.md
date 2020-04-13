@@ -13,7 +13,9 @@
 
 ## Результаты
 
-https://github.com/AlinaKaracheva/Java-1.2_1/issues/1#issue-598537428.
+1. 100% не успешный тест, так как итоговое значение пополнения счета клиента получилось отрицательным. 
+
+2. https://github.com/AlinaKaracheva/Java-1.2_1/issues/1#issue-598537428.
 
 
 ## Общие рекомендации
